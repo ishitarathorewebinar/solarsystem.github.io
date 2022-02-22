@@ -1,4 +1,3 @@
-# solarsystem.github.io
 <!doctype html>
 <html>
 <head>
