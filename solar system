@@ -1,47 +1,42 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>solarsystem.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="solarsystem.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://ishitarathorewebinar.github.io/solarsystem.github.io/" />
-<meta property="og:url" content="https://ishitarathorewebinar.github.io/solarsystem.github.io/" />
-<meta property="og:site_name" content="solarsystem.github.io" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="solarsystem.github.io" />
-<script type="application/ld+json">
-{"url":"https://ishitarathorewebinar.github.io/solarsystem.github.io/","@type":"WebSite","headline":"solarsystem.github.io","name":"solarsystem.github.io","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+<!doctype html>
+<html>
+<head>
+<title>
+Solar System
+</title>
+</head>
 
-    <link rel="stylesheet" href="/solarsystem.github.io/assets/css/style.css?v=4e33b199550375d8844c86d1338a89374385d0c6">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<body bgcolor="lightgreen">
 
-<!-- Setup Google Analytics -->
+<h1 style=text-align:center;color:blue">SOLAR SYSTEM</h1>
 
+<hr style="height:5px;border-width:0;color:gray;background-color:black">
 
+<marquee><h1 style=color:red;text-decoration:underline>PLANETS</h1></marquee>
+<p style="font size:200%";"font style:arial">Fun line to learn planets in order is <i><q>My Very Educated Mother Just Showed Us Nine Planets........</q><i></p>
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/solarsystem.github.io/favicon.ico" -->
+<hr style="height:5px;border-width:0;color:gray;background-color:black">
 
-<!-- end custom head snippets -->
+<ul style="font style:arial">
 
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
+<li style=color:#145A32>Mercury</li>
+<li style=color:#5B2C6F> Venus</li>
+<li style=color:blue> Earth</li>
+<li style=color:red> Mars</li>
+<li style=color:#F4FC05> Jupiter</li>
+<li style=color:brown> Saturn</li>
+<li style=color:#F005FC> Uranus</li>
+<li style=color:blue> Neptune</li>
+<li style=color:> <del>Pluto</del></li>
 
-      <h1 id="solarsystemgithubio">solarsystem.github.io</h1>
+</ul>
+ 
 
 
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
+<center><img src  ="https://images-na.ssl-images-amazon.com/images/I/61NZYZl7MGL.jpg "width:"1000" height"1000></img></center>
+<h2 align="center"> To Know More About Solar System <a href="https://en.wikipedia.org/wiki/Solar_System"> click here </a></h2>
+
+
+</body>
 </html>
